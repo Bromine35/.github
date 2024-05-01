@@ -1,2 +1,3 @@
 # Bromine35 - Br35
-skid group that creates (for now, it's *will create*) ChromeOS exploits for Enterprise enrolled students.
+
+skid group that creates (for now, it's *will create*) tools/exploits for enterprise enrolled students using ChromeOS.
