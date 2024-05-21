@@ -2,6 +2,7 @@
 
 skid group that creates tools/exploits for enterprise enrolled students using ChromeOS. <br>
 discord server invite (redirection): https://bromine35.elementsmi.com <br>
+website: https://bromine35.netlify.app <br>
 direct: https://discord.gg/VxBD5Hxffe <br>
 widgetbot to br35 (basically discord without authentication or being on discord.com): https://bromine35.photowidget.com <br>
 
