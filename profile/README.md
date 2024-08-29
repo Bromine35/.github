@@ -9,7 +9,7 @@ widgetbot to br35 (basically discord without authentication or being on discord.
 coming soon: proxied version of widgetbot
 
 
-- we'll let you access "private" materials/become a br35 member on request
+- make a ticket and you can join the exploiting group
 - yes, we'll help you with other exploits
 - okay with leaks and stuff that isn't "ethical"
 - apparently, we're more "chromeos theorizers" than "do-ers" (doesn't mean that we don't do shit)
